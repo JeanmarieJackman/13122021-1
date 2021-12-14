@@ -2,12 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  pointer-events: none;
-}
-
-
-
 .App-header {
   background-color: #000000;
   min-height: 100vh;
@@ -21,11 +15,12 @@
   padding: 20px;
 }
 
-.App-link {
+
+
+a {
   color: #61dafb;
+  font-size: 20px;
 }
-
-
 
 style {
     color: "purple";

@@ -39,7 +39,7 @@ class Home extends React.Component {
 
                     <p style={style}>At this time, the Pre-Alpha has concluded, and Alpha will begin next.  For those who wish to join, please sign up here: </p>
  
-                    <p style={style}><a href="https://forms.gle/jnwcgsHtX7V24nSR9"></a> ttps://forms.gle/jnwcgsHtX7V24nSR9 * </p>
+                    <a href="https://forms.gle/jnwcgsHtX7V24nSR9">https://forms.gle/jnwcgsHtX7V24nSR9 * </a> 
                     <p style={style}>*participants already registered for Pre-Alpha will have automatic access to Alpha/Thanks for taking the time to play the Conquest & Virtue Pre-Alpha! </p>
 
   
